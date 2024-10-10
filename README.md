@@ -1,3 +1,3 @@
 # SexyYama
 
-2000-11-04 Junsik Yoon
+20011219 SHINJINCHEL
