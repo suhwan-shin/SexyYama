@@ -1,3 +1,5 @@
-#제어공학1
-###
-https://github.com/suhwan-shin/SexyYama/issues/1#issue-2583798124
+# 제어공학1
+### 2020732005 신수환 과제1
+-------------------------------------------------------------------------------------------
+![제어과제1-1](https://github.com/user-attachments/assets/b7f27540-a5fe-4779-984f-61df9c634246)
+![제어과제1-2](https://github.com/user-attachments/assets/10942450-bcc0-4a66-82a3-2142098263ea)
